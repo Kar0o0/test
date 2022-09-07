@@ -15,7 +15,7 @@ import Comments from "./components/Comments";
 function App() {
   return (
     <div className="App">
-        <p>test</p>
+        
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
